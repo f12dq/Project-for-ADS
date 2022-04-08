@@ -4,8 +4,7 @@
   "description": "project for ads",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "server": "nodemon server.js"
+    "start": "nodemon server.js"
   },
   "author": "Dumitru Malic",
   "license": "MIT",
